@@ -13,3 +13,4 @@ Views of All posts
 Delete Post
 Comments 
 Messages
+TimeStamp of post 
